@@ -1,5 +1,5 @@
 x = 5;
-y = 1;
+y = 10;
 
 console.log(x + y);
 
